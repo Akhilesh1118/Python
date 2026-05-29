@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Alice",
+    "rating": "5",
+    "feedback": "Great product!",
+    "age": "25"
+  },
+  {
+    "name": "Bob",
+    "rating": "four",
+    "feedback": "Average",
+    "age": "30"
+  },
+  {
+    "name": "CharLie",
+    "rating": " two ",
+    "feedback": "BAD EXPERIENCE"
+  },
+  {
+    "name": "Diana",
+    "rating": " 5",
+    "feedback": "Loved it! Even could be better",
+    "age": "28"
+  },
+  {
+    "name": "Eve",
+    "rating": " 3.5",
+    "feedback": "Average - Could be better. ",
+    "age": "20"
+  },
+  {
+    "name": "Alice",
+    "rating": " 5",
+    "feedback": "Great product again!",
+    "age": "25"
+  }
+]
